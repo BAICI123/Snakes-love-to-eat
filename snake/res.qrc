@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>images/1llb9zif.png</file>
+        <file>images/njustlable.jpg</file>
+        <file>images/snakebackground.png</file>
+        <file>images/njust.ico</file>
+        <file>images/back.jpg</file>
+        <file>images/eat_voice.wav</file>
+        <file>images/wake.mp3</file>
+        <file>images/wake.wav</file>
+        <file>images/yuebing.png</file>
+    </qresource>
+    <qresource prefix="/rs">
+        <file>images/victory.gif</file>
+    </qresource>
+</RCC>
